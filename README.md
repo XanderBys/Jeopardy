@@ -36,13 +36,35 @@ It was inspired by curiosity about how professional Jeopardy players decide how 
 
 ---
 
-## Demo / Screenshots
+## Training
+The model was trained using 2500 episodes.
+Here is the graph of the loss as training progressed:
+![Loss over episodes](images/training_loss.png)
+
+---
+
+## Demo
 
 For a full demo of the training process and the algorithm in action, visit this Google Colab notebook:
 [https://colab.research.google.com/drive/1QzOLkRnD8Ss2zOXVRdvPdjLw7Vc4ilEu?usp=sharing](url)
 
-![Example plot of training reward over episodes](images/training_rewards.png)
+Here is how the actor performs in different situations:
 
+**Runaway game:**
+
+![Runaway game](images/runaway.png)
+
+
+
+**Close game**
+
+![Close game](images/close_game.png)
+
+
+
+**Comeback game**
+
+![Comeback game](images/comeback.png)
 
 ---
 
