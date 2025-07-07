@@ -7,16 +7,8 @@ This project uses Deep Reinforcement Learning to train an agent to make optimal 
 ## Table of Contents
 - [Motivation](#motivation)
 - [Features](#features)
-- [Demo / Screenshots](#demo--screenshots)
+- [Demo](#demo--screenshots)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [How It Works](#how-it-works)
-- [Results](#results)
-- [Future Work](#future-work)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
 ---
 
 ## Motivation
